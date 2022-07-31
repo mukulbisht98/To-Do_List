@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/mukul/AndroidStudioProjects/ToDoList/app/src/main/res/drawable/bg_toolbar.xml" value="0.12" />
+        <entry key="..\:/Users/mukul/AndroidStudioProjects/ToDoList/app/src/main/res/drawable/bg_toolbar_night.xml" value="0.1" />
+        <entry key="..\:/Users/mukul/AndroidStudioProjects/ToDoList/app/src/main/res/drawable/ic_add.xml" value="0.1" />
+        <entry key="..\:/Users/mukul/AndroidStudioProjects/ToDoList/app/src/main/res/drawable/ic_profile.xml" value="0.12" />
+        <entry key="..\:/Users/mukul/AndroidStudioProjects/ToDoList/app/src/main/res/drawable/ic_search.xml" value="0.17" />
+        <entry key="..\:/Users/mukul/AndroidStudioProjects/ToDoList/app/src/main/res/drawable/ripple_bg_day.xml" value="0.12" />
+        <entry key="..\:/Users/mukul/AndroidStudioProjects/ToDoList/app/src/main/res/drawable/vec_circle.xml" value="0.17" />
+        <entry key="..\:/Users/mukul/AndroidStudioProjects/ToDoList/app/src/main/res/layout/activity_main.xml" value="0.2604166666666667" />
+        <entry key="..\:/Users/mukul/AndroidStudioProjects/ToDoList/app/src/main/res/layout/default_app_bar.xml" value="0.2" />
+        <entry key="..\:/Users/mukul/AndroidStudioProjects/ToDoList/app/src/main/res/layout/dialog_loader.xml" value="0.2" />
+        <entry key="..\:/Users/mukul/AndroidStudioProjects/ToDoList/app/src/main/res/layout/frag_insert_todo.xml" value="0.4" />
+        <entry key="..\:/Users/mukul/AndroidStudioProjects/ToDoList/app/src/main/res/layout/frag_main.xml" value="0.2" />
+        <entry key="..\:/Users/mukul/AndroidStudioProjects/ToDoList/app/src/main/res/layout/frag_splash.xml" value="0.22521367521367522" />
+        <entry key="..\:/Users/mukul/AndroidStudioProjects/ToDoList/app/src/main/res/layout/item_color_dot.xml" value="0.22521367521367522" />
+        <entry key="..\:/Users/mukul/AndroidStudioProjects/ToDoList/app/src/main/res/layout/item_todo_list.xml" value="0.136" />
+        <entry key="..\:/Users/mukul/AndroidStudioProjects/ToDoList/app/src/main/res/layout/item_todo_list_item.xml" value="0.22521367521367522" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

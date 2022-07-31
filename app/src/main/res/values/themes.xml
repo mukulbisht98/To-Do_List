@@ -1,0 +1,50 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.ToDoList" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/day_theme_700</item>
+        <item name="colorPrimaryVariant">@color/day_theme_200</item>
+        <item name="colorOnPrimary">@color/white_100</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/day_theme_200</item>
+        <item name="colorSecondaryVariant">@color/day_theme_200</item>
+        <item name="colorOnSecondary">@color/white_100</item>
+
+        <item name="android:statusBarColor">@color/card_day</item>
+        <item name="android:windowBackground">@drawable/bg_toolbar</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="appBarLayoutStyle">@style/appBar</item>
+        <item name="toolbarStyle">@style/Widget.Toolbar</item>
+        <item name="shapeAppearanceSmallComponent">@style/ShapeAppearance.App.SmallComponent</item>
+    </style>
+
+    <style name="Widget.Toolbar" parent="@style/Widget.AppCompat.Toolbar">
+        <item name="contentInsetStart">0dp</item>
+        <item name="android:background">@drawable/bg_toolbar</item>
+    </style>
+    <style name="appBar" parent="Theme.ToDoList">
+        <item name="android:background">@color/card_day</item>
+    </style>
+    <style name="ShapeAppearance.App.SmallComponent" parent="ShapeAppearance.MaterialComponents.SmallComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">4dp</item>
+    </style>
+
+    <style name="headingView" parent="Widget.AppCompat.TextView">
+        <item name="android:textColor">@color/day_theme_700</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="textView" parent="Widget.AppCompat.TextView">
+        <item name="android:textColor">@color/text_day</item>
+    </style>
+
+    <style name="appBarButton" parent="Theme.ToDoList">
+        <item name="android:tint">@color/day_theme_700</item>
+        <item name="android:background">@drawable/ripple_bg_day</item>
+    </style>
+
+    <style name="searchBox" parent="Theme.ToDoList">
+        <item name="android:backgroundTint">@color/white_100</item>
+    </style>
+</resources>

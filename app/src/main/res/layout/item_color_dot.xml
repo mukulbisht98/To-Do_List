@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <data>
+
+        <variable
+            name="recyclerData"
+            type="int" />
+    </data>
+
+    <ImageView
+        android:id="@+id/ivColor"
+        style="@style/appBarButton"
+        setImageTint="@{recyclerData}"
+        android:layout_width="@dimen/_32sdp"
+        android:layout_height="@dimen/_32sdp"
+        android:contentDescription="@string/item_color_dot"
+        android:padding="@dimen/_8sdp"
+        android:src="@drawable/vec_circle" />
+</layout>
